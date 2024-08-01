@@ -1,0 +1,20 @@
+[
+  {
+    "username": "moamlmushtak1@gmail.com",
+    "email": "moamlmushtak1@gmail.com",
+    "password": "moaml..alal",
+    "fullName": "Moaml Mushtak",
+    "profilePicture": "https://i.pinimg.com/564x/32/1c/11/321c111fb96587bebe2111bb10d0203c.jpg",
+    "isAdmin": true,
+    "createdAt": "2024-07-01T12:34:56.789Z"
+  },
+  {
+    "username": "mua1",
+    "email": "moamlmushtak11@gmail.com",
+    "password": "moaml..alal",
+    "fullName": "Mua 1",
+    "profilePicture": "",
+    "isAdmin": false,
+    "createdAt": "2024-08-01T08:18:19.829Z"
+  }
+]
